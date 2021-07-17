@@ -12,25 +12,25 @@
     <form asp-action="apply">
 
         <p>
-            <label for="name">Adınız</label>
-            <input type="text" name="name">
+            <label asp-for="name">Adınız</label>
+            <input asp-for="name">
         </p>
 
         <p>
-            <label for="email">Email</label>
-            <input type="text" name="email">
+            <label asp-for="email">Email</label>
+            <input asp-for="email">
         </p>
 
         <p>
-            <label for="phone">Phone</label>
-            <input type="text" name="phone">
+            <label asp-for="phone">Phone</label>
+            <input asp-for="phone">
         </p>
 
         <p>
-            <label for="confirm">Will you join the course ?</label>
-            <select name="confirm">
-                <option value="">Evet</option>
-                <option value="">Hayır</option>
+            <label asp-for="confirm">Will you join the course ?</label>
+            <select asp-for="confirm">
+                <option value="true">Evet</option>
+                <option value="false">Hayır</option>
             </select>
         </p>
 
