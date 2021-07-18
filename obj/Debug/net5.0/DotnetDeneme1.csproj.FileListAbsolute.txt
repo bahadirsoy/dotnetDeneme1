@@ -38,3 +38,4 @@ C:\Users\oxika\OneDrive\Masaüstü\DotnetDeneme1\obj\Debug\net5.0\Razor\Views\Ho
 C:\Users\oxika\OneDrive\Masaüstü\DotnetDeneme1\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
 C:\Users\oxika\OneDrive\Masaüstü\DotnetDeneme1\obj\Debug\net5.0\Razor\Views\Course\Apply.cshtml.g.cs
 C:\Users\oxika\OneDrive\Masaüstü\DotnetDeneme1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\oxika\OneDrive\Masaüstü\DotnetDeneme1\obj\Debug\net5.0\Razor\Views\Course\Thanks.cshtml.g.cs

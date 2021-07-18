@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\oxika\\OneDrive\\Masaüstü\\DotnetDeneme1\\Views\\Course\\Thanks.cshtml",
+      "TargetPath": "Views\\Course\\Thanks.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\oxika\\OneDrive\\Masaüstü\\DotnetDeneme1\\Views\\Home\\About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
       "FileKind": "mvc"

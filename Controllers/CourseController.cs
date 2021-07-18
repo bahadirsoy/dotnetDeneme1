@@ -11,11 +11,18 @@ namespace DotnetDeneme1.Controllers
             return View();
         }
         
+        [HttpGet]
         public IActionResult Apply()
         {
-            
-
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Apply(Student student)
+        {
+            Repository.addStudent(student);
+
+            return View("Thanks", student);
         }
 
         public IActionResult List()
