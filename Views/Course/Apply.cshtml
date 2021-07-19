@@ -11,6 +11,7 @@
 <body>
     <form asp-action="apply" method="POST">
 
+        <div asp-validation-summary="All"></div>
         <p>
             <label asp-for="name">Adınız</label>
             <input asp-for="name">
