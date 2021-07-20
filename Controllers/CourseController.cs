@@ -20,7 +20,7 @@ namespace DotnetDeneme1.Controllers
         [HttpPost]
         public IActionResult Apply(Student student)
         {
-            if(ModelState.IsValid){
+            if(ModelState.IsValid && student.confirm == true){
                 Repository.addStudent(student);
                 return View("Thanks", student);
             } else{
